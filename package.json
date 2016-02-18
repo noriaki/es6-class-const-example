@@ -1,0 +1,11 @@
+{
+  "name": "es6-class-const-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-preset-es2015": "^6.5.0"
+  },
+  "babel": { "presets": [ "es2015" ] }
+}
